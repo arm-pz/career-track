@@ -2,13 +2,13 @@
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "career-track",
   "version": "0.1.0",
-  "description": "Career positioning, promotion and review narratives, executive presence, negotiation scripts, pivots, network maps, interview prep and a dated plan.",
+  "description": "Career positioning, promotion and review narratives, executive presence, negotiation scripts, pivots, network maps, internal-panel interview prep and a dated plan.",
   "author": {
     "name": "arm-pz",
     "url": "https://github.com/arm-pz"
   },
   "homepage": "https://github.com/arm-pz/career-track",
   "repository": "https://github.com/arm-pz/career-track",
-  "keywords": ["career-planning", "promotion", "salary-negotiation", "personal-brand", "career-pivot", "interview-prep"],
+  "keywords": ["career-planning", "promotion", "salary-negotiation", "personal-brand", "career-pivot", "promotion-panel"],
   "skills": "./skills/"
 }

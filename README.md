@@ -1,6 +1,6 @@
 # career-track
 
-An agent skill for the moves around a career: the positioning line you can repeat, the case for the next level, a performance-review self-assessment written from your own facts, an executive-presence read of the rooms where it is going wrong, a salary or promotion script, a pivot path with its friction points, a network map with dates, interview preparation framed as likely questions and what each one tests, and a plan with this week's actions and ninety-day milestones. It writes only from what you supply. Where a quantified result would help and you have not given one, it leaves `[metric — supply this]` and collects the gaps, so nothing in your case is a number you cannot defend in the meeting.
+An agent skill for the moves around a career: the positioning line you can repeat, the case for the next level, a performance-review self-assessment written from your own facts, an executive-presence read of the rooms where it is going wrong, a salary or promotion script, a pivot path with its friction points, a network map with dates, preparation for the interviews inside your own employer (a promotion panel, a review conversation), and a plan with this week's actions and ninety-day milestones. It writes only from what you supply. Where a quantified result would help and you have not given one, it leaves `[metric — supply this]` and collects the gaps, so nothing in your case is a number you cannot defend in the meeting.
 
 Install: `npx skills add arm-pz/career-track --skill career-track`
 
@@ -22,7 +22,7 @@ Ask it things like:
 | Negotiation | What to establish before naming a number, three ways to reason about ranges, a six-beat script skeleton, response handling, the written ask |
 | Pivot path | Transferable-skill map, bridge roles, proof you still need sorted by time, friction points you can and cannot absorb |
 | Network map | Roles to reach by function, the ask per contact, warm or cold state, next dates |
-| Interview prep | Likely questions with what each tests and the evidence slot for your answer, labelled likely rather than predicted |
+| Interview prep | Likely questions with what each tests and the evidence slot for your answer, for the rooms you are in now: promotion panel, internal move, skip-level. A pack written against a job description you are applying to is `applicant-kit`'s |
 | The plan | `career-plan.md`: position, target, obstacle, evidence, case, ask, network, actions this week, dated milestones, gaps |
 
 `tests/test-prompts.md` holds the trigger cases, including the near-misses this skill must hand away.
